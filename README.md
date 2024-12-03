@@ -1,6 +1,4 @@
 # 👋 Salut, moi c’est Mina,  
-![photo toon me 2 petite taille](https://github.com/user-attachments/assets/43f8e7bc-a5af-4360-863d-332bd38de8dc)
-
 
 ## À propos de moi  
 Je suis en formation Bachelor en développement web, avec une spécialisation dans le domaine de l’immobilier. Passionnée par le développement web, j’aime créer des solutions modernes, à la fois en front-end et en back-end.  
