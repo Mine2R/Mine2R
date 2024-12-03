@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Mina,  
+# 👋 Bonjour, je suis Mina,  
 
 ## À propos de moi  
 Je suis en formation Bachelor en développement web, avec une spécialisation dans le domaine de l’immobilier. Passionnée par le développement web, j’aime créer des solutions modernes, à la fois en front-end et en back-end.  
