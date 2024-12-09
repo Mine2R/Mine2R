@@ -28,7 +28,8 @@ Je suis en formation Bachelor en développement web, avec une spécialisation da
 ## Mon Parcours 🎓  
 - **CV** : [Voir mon CV](https://github.com/monutilisateur/CV)  
 - **Email** : m.boussamgane@gmail.com  
-- **LinkedIn** : [www.linkedin.com/in/mina-boussamgane](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BkTex3tbsQc%2BphSysyOCwtA%3D%3D)  
+- **LinkedIn** : [www.linkedin.com/in/mina-boussamgane](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BkTex3tbsQc%2BphSysyOCwtA%3D%3D)
+- **Portfolio** : [Voir mon portfolio](https://github.com/Mine2R/portfolio)
 
 ## Fun Fact ⚡  
 Ma polyvalence me permet d’apporter des solutions adaptées et innovantes à chaque projet. 🚀  
