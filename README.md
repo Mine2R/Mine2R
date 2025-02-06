@@ -13,7 +13,7 @@ Je suis en formation Bachelor en développement web, avec une spécialisation da
 ### 1. **Portfolio Personnel**  
 - **Description** : Un site web dédié à un groupe de musique connu.  
 - **Technologies** : HTML, CSS, GitHub Pages  
-- [Voir le projet](https://github.com/monutilisateur/fansite)  
+- [Voir le projet](https://minaboussamgane.netlify.app)  
 
 ### 2. **Validation de Mots de Passe**  
 - **Description** : Un script Python qui valide les mots de passe selon des critères de sécurité.  
@@ -26,7 +26,7 @@ Je suis en formation Bachelor en développement web, avec une spécialisation da
 - **Outils** : Git, GitHub, VS Code  
 
 ## Mon Parcours 🎓  
-- **CV** : [Voir mon CV](https://github.com/monutilisateur/CV)  
+- **CV** : [Voir mon CV](https://minaboussamgane.netlify.app/CV.pdf)  
 - **Email** : m.boussamgane@gmail.com  
 - **LinkedIn** : [www.linkedin.com/in/mina-boussamgane](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BkTex3tbsQc%2BphSysyOCwtA%3D%3D)
 - **Portfolio** : [Voir mon portfolio](https://github.com/Mine2R/portfolio)
