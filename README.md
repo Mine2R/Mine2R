@@ -18,7 +18,7 @@ Je suis en formation Bachelor en développement web, avec une spécialisation da
 ### 2. **Validation de Mots de Passe**  
 - **Description** : Un script Python qui valide les mots de passe selon des critères de sécurité.  
 - **Technologies** : Python  
-- [Voir le projet](https://github.com/monutilisateur/password)  
+- [Voir le projet](https://github.com/Mine2R/Password)  
 
 ## Mes Compétences 💻  
 - **Langages** : Python, JavaScript, HTML, CSS  
