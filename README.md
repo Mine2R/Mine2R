@@ -1,28 +1,17 @@
 # 👋 Bonjour, je suis Mina,  
 
 ## À propos de moi  
-Je suis en formation Bachelor en développement web, avec une spécialisation dans le domaine de l’immobilier. Passionnée par le développement web, j’aime créer des solutions modernes, à la fois en front-end et en back-end.  
+Je me forme au développement web. Passionnée par ce domaine, j’aime créer des solutions modernes, à la fois en front-end et en back-end.  
 
 ## Actuellement, je me concentre sur :  
 - Le développement web (HTML, CSS, JavaScript, Python)  
 - Les outils et frameworks modernes comme React et Flask  
 - La mise en pratique via des projets concrets  
-
-## Mes Projets 🚀  
-
-### 1. **Portfolio Personnel**  
-- **Description** : Un site web dédié à un groupe de musique connu.  
-- **Technologies** : HTML, CSS, GitHub Pages  
-- [Voir le projet](https://minaboussamgane.netlify.app)  
-
-### 2. **Validation de Mots de Passe**  
-- **Description** : Un script Python qui valide les mots de passe selon des critères de sécurité.  
-- **Technologies** : Python  
-- [Voir le projet](https://github.com/Mine2R/Password)  
+ 
+ 
 
 ## Mes Compétences 💻  
-- **Langages** : Python, JavaScript, HTML, CSS  
-- **Frameworks** : Flask, React  
+- **Langages** : JavaScript,Reactjs , Vuejs   
 - **Outils** : Git, GitHub, VS Code  
 
 ## Mon Parcours 🎓  
