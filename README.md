@@ -1,31 +1,46 @@
-# 👋 Bonjour, je suis Mina,  
+# 👋 Bonjour, je suis Mina
 
-## À propos de moi  
-Je me forme au développement web. Passionnée par ce domaine, j’aime créer des solutions modernes, à la fois en front-end et en back-end.  
+🎯 Étudiante en Bachelor IT Développement Web, je suis passionnée par la création de solutions digitales innovantes.  
+Je conçois des projets complets en **front-end** et **back-end**, avec une attention particulière portée sur l'expérience utilisateur.
 
-## Actuellement, je me concentre sur :  
-- Le développement web (HTML, CSS, JavaScript, Python)  
-- Les outils et frameworks modernes comme React et Flask  
-- La mise en pratique via des projets concrets  
- 
- 
+---
 
-## Mes Compétences 💻  
-- **Langages** : JavaScript,Reactjs , Vuejs   
-- **Outils** : Git, GitHub, VS Code  
+## 🔧 Compétences techniques
 
-## Mon Parcours 🎓  
-- **CV** : [Voir mon CV](https://minaboussamgane.netlify.app/CV.pdf)  
-- **Email** : m.boussamgane@gmail.com  
-- **LinkedIn** : [www.linkedin.com/in/mina-boussamgane](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BkTex3tbsQc%2BphSysyOCwtA%3D%3D)
-- **Portfolio** : [Voir mon portfolio](https://github.com/Mine2R/portfolio)
+- **Langages** : HTML, CSS, JavaScript, PHP, SQL  
+- **Frameworks & Librairies** : React.js, Vue.js, Node.js, Express.js  
+- **Outils & Bases de données** : Git, GitHub, PhpMyAdmin, VS Code, MongoDB
 
-## Fun Fact ⚡  
-Ma polyvalence me permet d’apporter des solutions adaptées et innovantes à chaque projet. 🚀  
+---
 
-  
+## 📌 Projets en cours
 
-<!---
-Mine2R/Mine2R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧑‍🍳 **Application de commande de burgers personnalisés**  
+  ➤ Création et gestion de menus, authentification, interface responsive  
+  ➤ [Voir le projet en ligne](https://burger-en-ligne.netlify.app)
+
+- 🧩 **Portfolio personnel**  
+  ➤ [Portfolio sur GitHub Pages](https://mine2r.github.io/portfolio)
+
+---
+
+## 📄 À propos de moi
+
+- 🎓 Formation : Bachelor IT – La Plateforme  
+- 🤝 En contrat pro avec des entreprises partenaires  
+- 🌐 Axée mobile-first, UX, responsive design  
+
+---
+
+## 📫 Me contacter
+
+- 📧 Email : [m.boussamgane@gmail.com](mailto:m.boussamgane@gmail.com)  
+- 🔗 LinkedIn : [mina-boussamgane](https://www.linkedin.com/in/mina-boussamgane)  
+- 📁 CV : [Télécharger le CV](https://minaboussamgane.netlify.app/CV.pdf)
+
+---
+
+## ⚡ Fun fact
+
+Je transforme les défis en opportunités d'apprentissage. Curieuse, rigoureuse et créative, je construis des projets utiles et impactants. 🚀
+
