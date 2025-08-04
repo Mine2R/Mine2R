@@ -1,6 +1,7 @@
 <p align="center">
-<img src="./Développeuse Web - Bonjour Mina!.png" alt="Bannière Mina" />
+  <img src="./banniere-mina.png" alt="Bannière Mina" />
 </p>
+
 # 👋 Bonjour, je suis Mina
 
 🎯 Étudiante en Bachelor IT Développement Web, je suis passionnée par la création de solutions digitales innovantes.  
