@@ -2,7 +2,7 @@
   <img src="./banniere-mina.png" alt="Bannière Mina" widht="100" />
 </p>
 
-# 👋 
+#  
 
 🎯 Étudiante en Bachelor IT Développement Web, je suis passionnée par la création de solutions digitales innovantes.  
 Je conçois des projets complets en **front-end** et **back-end**, avec une attention particulière portée sur l'expérience utilisateur.
