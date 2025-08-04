@@ -1,6 +1,8 @@
 <p align="center">
   <img src="./banniere-mina.png" alt="Bannière Mina" widht="100" />
 </p>
+📄 [Télécharger mon CV](./CV Mina B.pdf)
+
 
 #  
 
