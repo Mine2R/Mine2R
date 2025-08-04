@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banniere-mina.png" alt="Bannière Mina" />
+  <img src="./banniere-mina.png" alt="Bannière Mina" widht="600" />
 </p>
 
 # 👋 Bonjour, je suis Mina
