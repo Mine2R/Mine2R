@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./banniere-mina.png" alt="Bannière Mina" widht="100" />
 </p>
-📄 [Télécharger mon CV](https://github.com/Mine2R/Mine2R/raw/main/CV%20Mina%20B.pdf)
+
 
 
 
@@ -45,7 +45,7 @@ Je conçois des projets complets en **front-end** et **back-end**, avec une atte
 
 - 📧 Email : [m.boussamgane@gmail.com](mailto:m.boussamgane@gmail.com)  
 - 🔗 LinkedIn : [mina-boussamgane](https://www.linkedin.com/in/mina-boussamgane)  
-- 📁 CV : [Télécharger le CV](https://minaboussamgane.netlify.app/CV.pdf)
+- 📁 CV : [Télécharger mon CV](https://github.com/Mine2R/Mine2R/raw/main/CV%20Mina%20B.pdf)
 
 ---
 
