@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./A_graphic_design_banner_image_introduces_Mina,_a_b.png" alt="Bannière Mina" style="width:100%;" />
+</p>
 # 👋 Bonjour, je suis Mina
 
 🎯 Étudiante en Bachelor IT Développement Web, je suis passionnée par la création de solutions digitales innovantes.  
