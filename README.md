@@ -1,7 +1,8 @@
 <p align="center">
   <img src="./banniere-mina.png" alt="Bannière Mina" widht="100" />
 </p>
-📄 [Télécharger mon CV](CV%20Mina%20B.pdf)
+[![Télécharger mon CV](https://img.shields.io/badge/CV_Mina_Boussamgane-pdf-blue)](CV%20Mina%20B.pdf)
+
 
 
 
